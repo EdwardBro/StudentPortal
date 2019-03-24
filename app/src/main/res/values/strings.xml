@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_webview">Add Web View</string>
+    <string name="title_addition_activity">Adding new portal</string>
+    <string name="default_title">Write the title of the website</string>
+    <string name="needTitle">Need the title</string>
+    <string name="needUrl">Need the URL</string>
+</resources>
